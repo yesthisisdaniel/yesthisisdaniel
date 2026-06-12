@@ -20,8 +20,8 @@
 
 ```js
 const daniel = {
-  occupation: IT Specialist,
-  majoringIn : Computer Science
+  occupation: "IT Specialist",
+  majoringIn : "Computer Science",
   focus:    ["Web Development", "Networking", "Systems"],
   learning: "Always.",
   currently: "Building smaller apps to test current abilities",
