@@ -20,7 +20,8 @@
 
 ```js
 const daniel = {
-  role:     "IT Specialist & CS Student",
+  occupation: IT Specialist,
+  majoringIn : Computer Science
   focus:    ["Web Development", "Networking", "Systems"],
   learning: "Always.",
   currently: "Building smaller apps to test current abilities",
@@ -61,7 +62,6 @@ const daniel = {
 - 📚 Studying Computer Science
 - 📚 Studying The Odin Project / Ruby on Rails
 - 🔧 Sharpening IT & sysadmin skills
-- 🌐 Building for the web
 - 📡 Exploring networks & infrastructure
 
 ---
