@@ -10,7 +10,7 @@
                                                        
 ```
 
-*IT Specialist · CS Student · Web Tinkerer*
+*IT Specialist · CS Student · Tinkerer*
 
 </div>
 
@@ -24,7 +24,7 @@ const daniel = {
   majoringIn : "Computer Science",
   focus:    ["Web Development", "Networking", "Systems"],
   learning: "Always.",
-  currently: "Building smaller apps to test current abilities",
+  currently: "Building smaller apps to test current abilities, tinkering with a homelab and getting to know Docker",
 };
 ```
 
