@@ -24,7 +24,7 @@ const daniel = {
   role:     "IT Specialist & CS Student",
   focus:    ["Web Development", "Networking", "Systems"],
   learning: "Always.",
-  currently: "Building things that actually work.",
+  currently: "Building smaller apps to test current abilities",
 };
 ```
 
