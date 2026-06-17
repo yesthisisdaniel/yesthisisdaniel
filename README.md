@@ -24,10 +24,8 @@
 daniel@yesthisisdaniel ────────────────────────
 
 - OS: .......................... Linux (Ubuntu), Windows
-- Uptime: ...................... <!-- TODO: years coding -->
-- Host: ........................ <!-- TODO: company / org -->
-- Kernel: ....................... <!-- TODO: your inside joke -->
-- IDE: .......................... <!-- TODO: VS Code, etc -->
+- Host: ........................ Konveyor Poland
+
 
 - Languages.Programming: ....... JavaScript, Ruby
 - Languages.Markup: ............. HTML, CSS
@@ -56,12 +54,6 @@ daniel@yesthisisdaniel ───────────────────
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesthisisdaniel&layout=compact&theme=tokyonight&hide_border=true" />
 <!--END_SECTION:stats-->
 
-<!--START_SECTION:loc-->
-**Lines of Code:** _updates automatically via GitHub Action — see workflow below_
-<!--END_SECTION:loc-->
-
 <br clear="both">
 
 ---
-
-<sub>ASCII art is a placeholder geometric diamond. Stats cards refresh live on every page load (image-based). The lines-of-code line above is rewritten on a schedule by the Action in <code>.github/workflows/update-readme.yml</code>, which actually edits and commits this file — true "live" data, not just a refreshing image.</sub>
