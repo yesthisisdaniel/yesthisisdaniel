@@ -1,63 +1,38 @@
-<table>
-<tr>
-<td valign="top" width="40%">
+<div align="center">
 
 ```
-                    .
-                  .:░:.
-                .:░▒▒░:.
-              .:░▒▓▓▓▒░:.
-            .:░▒▓███▓▒░:.
-          .:░▒▓█████▓▒░:.
-        .:░▒▓███████████▓▒░:.
-          ':░▒▓█████▓▒░:'
-        ':░▒▓███████████▓▒░:'
-      ':░▒▓█████████████████▓▒░:'
-        ':░▒▓███████████▓▒░:'
-          ':░▒▓█████▓▒░:'
-            ':░▒▓███▓▒░:'
-              ':░▒▓▓▓▒░:'
-                ':░▒▒░:'
-                  ':░:'
-                    ':'
-
-   [ place a real photo / logo here
-     any time — see README-ART.md
-     for the conversion script ]
+.______  .______  .______  .___ ._______.___    
+:_ _   \ :      \ :      \ : __|: .____/|   |   
+|   |   ||   .   ||       || : || : _/\ |   |   
+| . |   ||   :   ||   |   ||   ||   /  \|   |/\ 
+|. ____/ |___|   ||___|   ||   ||_.: __/|   /  \
+ :/          |___|    |___||___|   :/   |______/
+ :                                              
 ```
 
-</td>
-<td valign="top" width="60%">
+<sub>all we have to decide is what to do with the time that is given to us</sub>
 
-<pre>
-<b>daniel@yesthisisdaniel</b> ────────────────────────
+<br />
 
-<span style="color:#c3b1e1">OS</span>: .......................... Linux (Ubuntu), Windows
-<span style="color:#f5c6a5">Host</span>: ........................ &lt;Konveyor Polska&gt;
+<img src="https://img.shields.io/badge/JavaScript-FDE9C9?style=flat-square&logo=javascript&logoColor=8A7B5C&labelColor=FDE9C9" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML-F6D6E0?style=flat-square&logo=html5&logoColor=8A5C6B&labelColor=F6D6E0" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-D6E8F6?style=flat-square&logo=css3&logoColor=4F6D8A&labelColor=D6E8F6" alt="CSS" />
+<img src="https://img.shields.io/badge/Ruby-E4D6F6?style=flat-square&logo=ruby&logoColor=6B4F8A&labelColor=E4D6F6" alt="Ruby" />
+<img src="https://img.shields.io/badge/React-D6F6E8?style=flat-square&logo=react&logoColor=4F8A6D&labelColor=D6F6E8" alt="React" />
 
-<span style="color:#c3b1e1">Languages.Programming</span>: ....... JavaScript, Ruby
-<span style="color:#a8d8c9">Languages.Markup</span>: ............. HTML, CSS
-<span style="color:#f5c6a5">Languages.Frameworks</span>: ......... React
-<span style="color:#a8c6e8">Languages.Real</span>: ............... English (native), Polish (native)
+<br />
+<br />
 
-<span style="color:#e8b4d8">Hobbies.Hardware</span>: ............. Raspberry Pi, Arduino, Homelab, Sports, Gaming
-<span style="color:#a8d8c9">Currently Playing</span>: ............ Forza Horizon 6, AC: Odyssey
+```
+const daniel = {
+  languages: ["JS", "Ruby"],
+  studying: ["The Odin Project Ruby on Rails path", "Bachelors in Computer Science"]
+  hobbies: ["homelab", "Arduino", "gaming", "sports", "voice acting"]
+};
+```
 
-<b>Contact</b> ──────────────────────────────────────
-<span style="color:#f5c6a5">Email</span>: ........................ danieln311@gmail.com
-<span style="color:#a8c6e8">LinkedIn</span>: ..................... www.linkedin.com/in/yesthisisdaniel
-<span style="color:#e8b4d8">Discord</span>: ...................... moonchkins
-</pre>
+<br />
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/yesthisisdaniel?tab=repositories">repos</a> · <a href="#">say hi! always open to better myself through new projects and experiences</a>
 
----
-
-### GitHub Stats (live)
-
-<!--START_SECTION:stats-->
-<img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=yesthisisdaniel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesthisisdaniel&layout=compact&theme=tokyonight&hide_border=true" />
-<!--END_SECTION:stats-->
+</div>
