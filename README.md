@@ -22,17 +22,21 @@
 
 <br />
 <br />
+</div>
 
-```
+```js
 const daniel = {
   languages: ["JS", "Ruby"],
-  studying: ["The Odin Project Ruby on Rails path", "Bachelors in Computer Science"]
+  studying: ["The Odin Project Ruby on Rails path", "Bachelors in Computer Science"],
   hobbies: ["homelab", "Arduino", "gaming", "sports", "voice acting"]
 };
 ```
 
+<div align="center">
+
 <br />
 
-<a href="https://github.com/yesthisisdaniel?tab=repositories">repos</a> · <a href="#">say hi! always open to better myself through new projects and experiences</a>
+<a href="https://github.com/yesthisisdaniel?tab=repositories">repos</a> · <a href="#">say hi</a>
 
 </div>
+
