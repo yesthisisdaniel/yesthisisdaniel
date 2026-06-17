@@ -1,75 +1,76 @@
-<!-- Header -->
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="40%">
 
 ```
- ____              _      _ 
-|  _ \  __ _ _ __ (_) ___| |
-| | | |/ _` | '_ \| |/ _ \ |
-| |_| | (_| | | | | |  __/ |
-|____/ \__,_|_| |_|_|\___|_|
-                                                       
+                    .
+                  .:░:.
+                .:░▒▒░:.
+              .:░▒▓▓▓▒░:.
+            .:░▒▓███▓▒░:.
+          .:░▒▓█████▓▒░:.
+        .:░▒▓███████████▓▒░:.
+          ':░▒▓█████▓▒░:'
+        ':░▒▓███████████▓▒░:'
+      ':░▒▓█████████████████▓▒░:'
+        ':░▒▓███████████▓▒░:'
+          ':░▒▓█████▓▒░:'
+            ':░▒▓███▓▒░:'
+              ':░▒▓▓▓▒░:'
+                ':░▒▒░:'
+                  ':░:'
+                    ':'
+
+   [ place a real photo / logo here
+     any time — see README-ART.md
+     for the conversion script ]
 ```
 
-*IT Specialist · CS Student · Tinkerer*
+</td>
+<td valign="top" width="60%">
 
-</div>
+```
+daniel@yesthisisdaniel ────────────────────────
 
----
+- OS: .......................... Linux (Ubuntu), Windows
+- Uptime: ...................... <!-- TODO: years coding -->
+- Host: ........................ <!-- TODO: company / org -->
+- Kernel: ....................... <!-- TODO: your inside joke -->
+- IDE: .......................... <!-- TODO: VS Code, etc -->
 
-## `whoami`
+- Languages.Programming: ....... JavaScript, Ruby
+- Languages.Markup: ............. HTML, CSS
+- Languages.Frameworks: ......... React
 
-```js
-const daniel = {
-  occupation: "IT Specialist",
-  majoringIn : "Computer Science",
-  focus:    ["Web Development", "Networking", "Systems"],
-  learning: "Always.",
-  currently: "Building smaller apps to test current abilities, tinkering with a homelab and getting to know Docker",
-};
+- Hobbies ............. Raspberry Pi, Arduino, Homelab, Modding, Sports
+- Currently Playing: ............ Driving across Japan in Forza Horizon 6,
+                                   Sightseeing Greece in AC: Odyssey
+
+- Contact ──────────────────────────────────────
+- Email: ........................ danieln311@gmail.com
+- LinkedIn: ..................... https://www.linkedin.com/in/daniel-nowak-084005173/
+- Discord: ...................... @moonchkins
 ```
 
----
-
-## Stack
-
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## Stats
+### GitHub Stats (live)
 
-<div align="center">
+<!--START_SECTION:stats-->
+<img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=yesthisisdaniel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesthisisdaniel&layout=compact&theme=tokyonight&hide_border=true" />
+<!--END_SECTION:stats-->
 
-![yesthisisdaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesthisisdaniel&show_icons=true&theme=default&hide_border=true&count_private=true)
+<!--START_SECTION:loc-->
+**Lines of Code:** _updates automatically via GitHub Action — see workflow below_
+<!--END_SECTION:loc-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yesthisisdaniel&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-## Currently
-
-- 📚 Studying Computer Science
-- 📚 Studying The Odin Project / Ruby on Rails
-- 🔧 Sharpening IT & sysadmin skills
-- 📡 Exploring networks & infrastructure
+<br clear="both">
 
 ---
 
-<div align="center">
-
-*Open to collaboration — always looking for ways to improve myself and be a part of exciting projects!*
-
-[![GitHub](https://img.shields.io/badge/@yesthisisdaniel-181717?style=flat-square&logo=github)](https://github.com/yesthisisdaniel)
-
-</div>
+<sub>ASCII art is a placeholder geometric diamond. Stats cards refresh live on every page load (image-based). The lines-of-code line above is rewritten on a schedule by the Action in <code>.github/workflows/update-readme.yml</code>, which actually edits and commits this file — true "live" data, not just a refreshing image.</sub>
